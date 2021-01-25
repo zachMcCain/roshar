@@ -1,0 +1,19 @@
+{
+  "name": "roshar",
+  "version": "1.0.0",
+  "description": "An interactive map of Brand Sanderson's fictional world of Roshar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachMcCain/roshar.git"
+  },
+  "author": "Zach McCain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachMcCain/roshar/issues"
+  },
+  "homepage": "https://github.com/zachMcCain/roshar#readme"
+}
